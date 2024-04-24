@@ -6,3 +6,5 @@ UHI Data Analytics - Assessment
 
 - Assessment 01 folder
 - Assessment 02 folder
+
+**Note:** Assessment colab sheet uses data (.csv) files from Assessment01 folder.
